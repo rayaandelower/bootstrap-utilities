@@ -1,0 +1,34 @@
+section {
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+.box1 {
+  width: 400px;
+  height: 200px;
+  background-color: blue;
+}
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.box4 {
+  background-color: gray;
+  border: 2px solid red;
+}
+.box5 {
+  background-color: gray;
+  border: 2px solid red;
+}
+.box7 {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+.box8 {
+  height: 500px;
+}
